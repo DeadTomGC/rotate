@@ -1,4 +1,4 @@
-This is a simple demo using pyro that relies on he irobotcreate
+This is a simple demo using pyro that relies on the irobotcreate
 
 The primary files to edit here are rotate.py, KinectMonitor.py and IPC.py
 
